@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development and Python**
 
-- 👨‍💻 All of my projects are available at [https://rghvgrv.github.io/MyPortfolio/](https://rghvgrv.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [PortFolio ](https://rghvgrv.github.io/PortfolioV2/)
 
 - 📫 How to reach me **gauravaashish1@gmail.com**
 
