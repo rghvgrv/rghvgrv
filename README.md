@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rghvgrv&label=Profile%20views&color=0e75b6&style=flat" alt="rghvgrv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rghvgrv" target="blank"><img src="https://img.shields.io/twitter/follow/rghvgrv?logo=twitter&style=for-the-badge" alt="rghvgrv" /></a> </p>
-
+ 
 - 🌱 I’m currently learning **Web Development and Python**
 
 - 👨‍💻 All of my projects are available at [PortFolio ](https://rghvgrv.github.io/PortfolioV2/)
