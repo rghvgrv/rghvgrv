@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [PortFolio ](https://rghvgrv.github.io/PortfolioV2/) 
 
-- 📫 How to reach me **gauravaashish1@gmail.com**
+- 📫 How to reach me **gauravaashish1@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
