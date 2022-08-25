@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/rghvgrv" target="blank"><img src="https://img.shields.io/twitter/follow/rghvgrv?logo=twitter&style=for-the-badge" alt="rghvgrv" /></a> </p>
   
-- 🌱 I’m currently learning **Web Development and Python**
+- 🌱 I’m currently learning **C# and . NET**
+
+- 📑 I have knowledge of **PYTHON , WEB DEV AND UI DESIGN**
 
 - 👨‍💻 All of my projects are available at [PortFolio ](https://rghvgrv.github.io/PortfolioV2/) 
 
