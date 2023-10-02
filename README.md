@@ -3,7 +3,7 @@
 
 [![@rghvgrv's Holopin board](https://holopin.me/rghvgrv)](https://holopin.io/@rghvgrv)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rghvgrv&label=Profile%20views&color=0e75b6&style=flat" alt="rghvgrv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rghvgrv&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="rghvgrv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rghvgrv" target="blank"><img src="https://img.shields.io/twitter/follow/rghvgrv?logo=twitter&style=for-the-badge" alt="rghvgrv" /></a> </p>
   
