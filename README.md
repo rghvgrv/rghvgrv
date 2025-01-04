@@ -32,6 +32,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rghvgrv&show_icons=true&theme=noctis_minimus&locale=en" alt="rghvgrv" /></p>
 
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rghvgrv&theme=github_dark" alt="rghvgrv" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rghvgrv&theme=noctis_minimus" alt="rghvgrv" /></p> 
  
 
