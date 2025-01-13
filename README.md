@@ -10,8 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=rghvgrv&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rghvgrv&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rghvgrv&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rghvgrv&theme=gotham&hide_border=false) </br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rghvgrv&theme=gotham&hide_border=false)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rghvgrv&theme=gotham&hide_border=false) </br> -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rghvgrv&theme=gotham&hide_border=false) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rghvgrv&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
