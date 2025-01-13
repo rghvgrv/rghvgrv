@@ -3,8 +3,6 @@
 
 [![An image of @rghvgrv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rghvgrv)](https://holopin.io/@rghvgrv)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rghvgrv&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="rghvgrv" /> </p>
-
 <p align="left"> <a href="https://twitter.com/rghvgrv" target="blank"><img src="https://img.shields.io/twitter/follow/rghvgrv?logo=twitter&style=for-the-badge" alt="rghvgrv" /></a> </p>
   
 - 🌱 I’m currently learning **C# and . NET**
@@ -37,7 +35,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rghvgrv&show_icons=true&theme=dark&locale=en" alt="rghvgrv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rghvgrv&theme=dark" alt="rghvgrv" /></p> 
- 
+
+</br>
+<p align="center">
+<a href="https://gist.github.com/rghvgrv"><img src="https://profile-counter.glitch.me/{rghvgrv}/count.svg" alt="Gaurav Ashish :: Visitor's Count" /></a>
+</p>
 
 
 
