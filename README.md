@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Ashish</h1> 
-<h3 align="center">Passionate CS Engineer | Little Bit Coder | Web Designing Enthusiasts</h3>
+<h3 align="center">SOFTWARE DEVELOPER</h3>
 
 [![An image of @rghvgrv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rghvgrv)](https://holopin.io/@rghvgrv)
 
