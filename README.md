@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gaurav Ashish</h1> 
 <h3 align="center">SOFTWARE DEVELOPER</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rghvgrv&label=Profile%20views&color=0e75b6&style=flat" alt="RghvGrv" />
+</p>
+
 [![An image of @rghvgrv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rghvgrv)](https://holopin.io/@rghvgrv)
 
 
@@ -19,13 +23,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rghvgrv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=rghvgrv&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</br>
+### 📈 Contribution Graph:
 <p align="center">
-<a href="https://gist.github.com/rghvgrv"><img src="https://profile-counter.glitch.me/{rghvgrv}/count.svg" alt="Gaurav Ashish :: Visitor's Count" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rghvgrv&theme=github-compact" alt="Gaurav Ashish GitHub Activity Graph" />
 </p>
 
 
