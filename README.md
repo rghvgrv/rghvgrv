@@ -6,10 +6,9 @@
 
 
 # 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=rghvgrv&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=rghvgrv&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rghvgrv&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rghvgrv&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rghvgrv&theme=gotham&hide_border=false)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rghvgrv&theme=github-compact" alt="Gaurav Ashish GitHub Activity Graph" />
 
 ### 🔝 Top Contributed Repo
