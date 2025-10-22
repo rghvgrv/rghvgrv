@@ -4,6 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=rghvgrv&label=Profile%20views&color=0e75b6&style=flat" alt="RghvGrv" />
 </p>
 
+[![An image of @rghvgrv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rghvgrv)](https://holopin.io/@rghvgrv)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [⚡️ MCP + VS Code Agent Mode: Why My Tool Returned Something I Never Coded](https://medium.com/@rghvgrv/%EF%B8%8F-mcp-vs-code-agent-mode-why-my-tool-returned-something-i-never-coded-599b67b96a1e?source=rss-7860861cb7ac------2)
