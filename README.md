@@ -8,9 +8,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ in C# : Making Services Talk Like Adults](https://medium.com/@rghvgrv/rabbitmq-in-c-making-services-talk-like-adults-9f071e1f9756?source=rss-7860861cb7ac------2)
 - [⚡️ MCP + VS Code Agent Mode: Why My Tool Returned Something I Never Coded](https://medium.com/@rghvgrv/%EF%B8%8F-mcp-vs-code-agent-mode-why-my-tool-returned-something-i-never-coded-599b67b96a1e?source=rss-7860861cb7ac------2)
 - [OpenAI + .NET Web API](https://medium.com/@rghvgrv/openai-net-web-api-98badf10fe49?source=rss-7860861cb7ac------2)
-- [Circuit Breaker Pattern](https://medium.com/@rghvgrv/circuit-breaker-pattern-0fa0f9b97d7c?source=rss-7860861cb7ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
