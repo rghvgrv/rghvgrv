@@ -8,9 +8,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Your AI Assistant Has a Brain, Hands, and Memory — Here’s What That Means](https://medium.com/@rghvgrv/your-ai-assistant-has-a-brain-hands-and-memory-heres-what-that-means-dcc133e6fe14?source=rss-7860861cb7ac------2)
 - [.NET 10 OpenAPI Source Generator Bug: IOpenApiMediaType.Example is Read-Only &lpar;CS0200&rpar;](https://medium.com/@rghvgrv/net-10-openapi-source-generator-bug-iopenapimediatype-example-is-read-only-cs0200-f8c2ff6f8d1b?source=rss-7860861cb7ac------2)
 - [Enterprise‑Grade Authentication in .NET](https://medium.com/@rghvgrv/enterprise-grade-authentication-in-net-3726e4de96b3?source=rss-7860861cb7ac------2)
-- [RabbitMQ in C# : Making Services Talk Like Adults](https://medium.com/@rghvgrv/rabbitmq-in-c-making-services-talk-like-adults-9f071e1f9756?source=rss-7860861cb7ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
