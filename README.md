@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1> 
 
-<div align="center">
+<div align="center">  
   
 ### Software Engineer · Dotnet Developer · GenAI Devs
 Doing these jobs so recruiters can still call it “one role.”
