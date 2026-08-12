@@ -10,7 +10,7 @@ Doing these jobs so recruiters can still call it “one role.”
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravaashish1@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rghvgrv&style=for-the-badge&color=0891b2)
-![Followers](https://img.shields.io/github/followers/rghvgrv?style=for-the-badge&color=0891b2)
+![Followers](https://img.shields.io/github/followers/rghvgrv?style=for-the-badge&color=0891b2) 
 </div>
 
 [![An image of @rghvgrv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rghvgrv)](https://holopin.io/@rghvgrv)
